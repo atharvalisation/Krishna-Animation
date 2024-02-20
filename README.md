@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements:
 - Inspired by the grace and beauty of Lord Krishna.
-- Built with love by [Your Name].
+- Built with love by Atharvalisation.
 
 ---
 
